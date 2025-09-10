@@ -24,5 +24,3 @@ Os endpoints disponíveis estão documentados [.env](./.env).
 
 # TODO's
 - Adicionar xxx
-    - Ex: postFidoRegistrationOptions -> attestationOpts.user.id deve estar em base64url ou string
-- Verificar se rp.id retornado em alguns métodos deve ser de fato a CN informada na requisição, considerando situações de instituições onde o CN não é uma URL (Android & iOS)
